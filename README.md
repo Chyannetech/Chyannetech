@@ -6,4 +6,4 @@ Feel free to check out my repos and give some feedback if you have the time.
 
 Lets connect
 
-LinkedIn --> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+LinkedIn --> "https://platform.linkedin.com/badges/js/profile.js"
