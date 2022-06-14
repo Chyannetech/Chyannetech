@@ -5,4 +5,4 @@
 Welcome to my Github! I'm a new developer currently building my portfolio while I finish my bootcamp course at General Assembly.  
 Feel free to check out my repos and give some feedback if you have the time.  
 
-
+<img src="http://cdn.shopify.com/s/files/1/0086/5229/2153/products/Savanna_Web_no_border.jpg?v=1626741611&width=1024" width="300" height="300" />
