@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/TMfHkLQGLiDQK4k3Zh/giphy.gif?cid=790b76116bc8672bd06abf327d90d0eba94714632ae52fd0&rid=giphy.gif&ct=g" width="300" height="300" />
+<img src="https://f8n-production.s3.amazonaws.com/creators/profile/9q6r3j4lg-1-gif-yep254.gif" width="300" height="300" />
 
 #### Hey there👋,
 
