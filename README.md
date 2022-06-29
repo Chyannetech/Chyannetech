@@ -1,22 +1,21 @@
-<p align="center">
-<img src="https://f8n-production.s3.amazonaws.com/creators/profile/9q6r3j4lg-1-gif-yep254.gif" width="200" height="200" />
-<img src="https://media2.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=790b7611f1482e830408c6af8aafdefd4f87d796e10656b9&rid=giphy.gif&ct=g" width="200" height="200" />
+<!-- <p align="center"> -->
+<img src="https://f8n-production.s3.amazonaws.com/creators/profile/9q6r3j4lg-1-gif-yep254.gif" width="100" height="100" />
 
 ### Hey there! I'm Chyanne - a Full-Stack Web Developer, Multimedia Specialist, and Designer based in Miami - Fort Lauderdale, Florida. 
 
 I enjoy the entire process of developing functional websites. I love the challenge of finding the best ways to address everyday problems with more convenience and automation, improved commuinication channels, and the ability to store large amounts of data. 
-  
+
 ##### 🔭 I’m currently working on: 
- - Travelmoire (Travel and Restaurant Recommendation App) 
- - Melanoid (A E-commerce art store)
- - Building a custom Wordpress theme (Portfolio)
- - PomoTom (Productivity App)
+  - Travelmoire (Travel and Restaurant Recommendation App) 
+  - Melanoid (A E-commerce art store)
+  - Building a custom Wordpress theme (Portfolio)
+  - PomoTom (Productivity App)
 
 ##### 🌱 I’m currently learning:
- - React Native
- - Python
- - Firebase
- - Styled Components 
+  - React Native
+  - Python
+  - Firebase
+  - Styled Components 
  
  ##### 📫 How to reach me:
  - [Twitter](https://twitter.com/chyannerobbins)
@@ -36,9 +35,6 @@ I enjoy the entire process of developing functional websites. I love the challen
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- 
- </br>
- 
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
