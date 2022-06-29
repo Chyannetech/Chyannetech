@@ -3,7 +3,7 @@
 <img src="https://media2.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=790b7611f1482e830408c6af8aafdefd4f87d796e10656b9&rid=giphy.gif&ct=g" width="250" height="255" />
 
 ## Hi there, I'm Chyanne
-#### I'm a Full-Stack Web Developer, Multimedia Specialist, and Designer. 
+#### I'm a Full-Stack Web Developer, Multimedia Specialist, and Designer based in Miami - Fort Lauderdale, Florida. 
 
 I enjoy the entire process of developing functional websites. I love the challenge of finding the best ways to address everyday problems with more convenience and automation, improved commuinication channels, and the ability to store large amounts of data. 
 
@@ -15,10 +15,17 @@ I enjoy the entire process of developing functional websites. I love the challen
 [twitter]: https://twitter.com/chyannerobbins
 [linkedin]: https://www.linkedin.com/in/chyannerobbins/
   
-- 🔭 I’m working on adding a few more projects to my portfolio to showcase all of the skills that I've learned so far. 
-- 🌱 I’m currently learning Python. 
-- 👯 I’m open to collaborate with designers from all over the world. Please feel free to reach out.  
-- ⚡ Rule to live by: - Never ever ever ever miss Taco Tuesday.
+### 🔭 I’m currently working on: 
+ - My old projects
+ - Travelmoire (Travel and Restaurant Recommendation App) (React-Native)
+ - Custom Wordpress Theme
+ - PomoTom (Productivity App)
+
+### 🌱 I’m currently learning:
+ - 📱 React Native
+ - Python
+ - Firebase
+ - Styled Components 
  
 ### 💼Technical Skills
 
@@ -39,10 +46,6 @@ I enjoy the entire process of developing functional websites. I love the challen
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  
  </br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
-
- </br>
  
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -54,7 +57,6 @@ I enjoy the entire process of developing functional websites. I love the challen
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
- 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -62,4 +64,9 @@ I enjoy the entire process of developing functional websites. I love the challen
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)	
+
+### 📈 GitHub Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_color=grey&right_color=pink)
+
  
