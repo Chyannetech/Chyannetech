@@ -15,9 +15,9 @@ I enjoy the entire process of developing functional websites. I love the challen
 [twitter]: https://twitter.com/chyannerobbins
 [linkedin]: https://www.linkedin.com/in/chyannerobbins/
   
-- 🔭 I’m currently working on adding a few more projects to my portfolio to showcase all of the skills that I've learned so far. 
+- 🔭 I’m working on adding a few more projects to my portfolio to showcase all of the skills that I've learned so far. 
 - 🌱 I’m currently learning Python. 
-- 👯 I’m open to collaborate! Please feel free to reach out so we can chat things out. 
+- 👯 I’m open to collaborate with designers from all over the world. Please feel free to reach out.  
 - ⚡ Rule to live by: - Never ever ever ever miss Taco Tuesday.
 
 
