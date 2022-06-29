@@ -21,10 +21,9 @@ I enjoy the entire process of developing functional websites. I love the challen
  ##### 📫 How to reach me:
  - [Twitter](https://twitter.com/chyannerobbins)
  - [Linkedin](https://www.linkedin.com/in/chyannerobbins/)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -58,9 +57,8 @@ I enjoy the entire process of developing functional websites. I love the challen
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)	
 
-##### 📈 GitHub Stats 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_color=grey&right_color=pink)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
+
 
 
 
