@@ -1,17 +1,17 @@
-### Hey there👋🏻 I'm Chyanne
-##### 🔭 I’m currently working on: 
+### Hi 👋🏻 I'm Chyanne
+#### 🔭 I’m currently working on: 
   - Travelmoire (Travel and Restaurant Recommendation App) 
   - Melanoid (A E-commerce art store)
   - Building a custom Wordpress theme (Portfolio)
   - PomoTom (Productivity App)
 
-##### 🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
   - React Native
   - Python
   - Firebase
   - Styled Components 
  
- ##### 📫 How to reach me:
+ #### 📫 How to reach me:
  - [Twitter](https://twitter.com/chyannerobbins)
  - [Linkedin](https://www.linkedin.com/in/chyannerobbins/)
  
