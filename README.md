@@ -3,8 +3,6 @@
 
 ### Hey there! I'm Chyanne - a Full-Stack Web Developer, Multimedia Specialist, and Designer based in Miami - Fort Lauderdale, Florida. 
 
-I enjoy the entire process of developing functional websites. I love the challenge of finding the best ways to address everyday problems with more convenience and automation, improved commuinication channels, and the ability to store large amounts of data. 
-
 ##### 🔭 I’m currently working on: 
   - Travelmoire (Travel and Restaurant Recommendation App) 
   - Melanoid (A E-commerce art store)
