@@ -7,7 +7,7 @@
 
 I enjoy the entire process of developing functional websites. I love the challenge of finding the best ways to address everyday problems with more convenience and automation, improved commuinication channels, and the ability to store large amounts of data. 
 
-### Connect with me:
+### 💬Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
