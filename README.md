@@ -10,6 +10,7 @@
 I enjoy the entire process of developing functional websites. I love the challenge of finding the best ways to address everyday problems with more convenience and automation, improved commuinication channels, and the ability to store large amounts of data. 
 
 ### Connect with me:
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][1]
 [1]: https://www.twitter.com/chyannerobbins
 
 
