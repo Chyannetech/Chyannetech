@@ -1,33 +1,26 @@
 <p align="center">
-<img src="https://f8n-production.s3.amazonaws.com/creators/profile/9q6r3j4lg-1-gif-yep254.gif" width="250" height="255" />
-<img src="https://media2.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=790b7611f1482e830408c6af8aafdefd4f87d796e10656b9&rid=giphy.gif&ct=g" width="250" height="255" />
+<img src="https://f8n-production.s3.amazonaws.com/creators/profile/9q6r3j4lg-1-gif-yep254.gif" width="200" height="200" />
+<img src="https://media2.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=790b7611f1482e830408c6af8aafdefd4f87d796e10656b9&rid=giphy.gif&ct=g" width="200" height="200" />
 
-## Hi there, I'm Chyanne
-#### I'm a Full-Stack Web Developer, Multimedia Specialist, and Designer based in Miami - Fort Lauderdale, Florida. 
+### Hey there! I'm Chyanne - a Full-Stack Web Developer, Multimedia Specialist, and Designer based in Miami - Fort Lauderdale, Florida. 
 
 I enjoy the entire process of developing functional websites. I love the challenge of finding the best ways to address everyday problems with more convenience and automation, improved commuinication channels, and the ability to store large amounts of data. 
-
-### 🤝Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
- 
-[twitter]: https://twitter.com/chyannerobbins
-[linkedin]: https://www.linkedin.com/in/chyannerobbins/
   
-### 🔭 I’m currently working on: 
- - My old projects
- - Travelmoire (Travel and Restaurant Recommendation App) (React-Native)
- - Custom Wordpress Theme
+##### 🔭 I’m currently working on: 
+ - Travelmoire (Travel and Restaurant Recommendation App) 
+ - Melanoid (A E-commerce art store)
+ - Building a custom Wordpress theme (Portfolio)
  - PomoTom (Productivity App)
 
-### 🌱 I’m currently learning:
- - 📱 React Native
+##### 🌱 I’m currently learning:
+ - React Native
  - Python
  - Firebase
  - Styled Components 
  
-### 💼Technical Skills
+ ##### 📫 How to reach me:
+ - [Twitter](https://twitter.com/chyannerobbins)
+ - [Linkedin](https://www.linkedin.com/in/chyannerobbins/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,8 +58,10 @@ I enjoy the entire process of developing functional websites. I love the challen
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)	
 
-### 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
+##### 📈 GitHub Stats 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_color=grey&right_color=pink)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
+
+
 
  
