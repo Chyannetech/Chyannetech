@@ -1,9 +1,8 @@
 ### Hi 👋🏻 I'm Chyanne
 #### 🔭 I’m currently working on: 
-  - Travelmoire (Travel and Restaurant Recommendation App) 
-  - Melanoid (A E-commerce art store)
-  - Building a custom Wordpress theme (Portfolio)
-  - PomoTom (Productivity App)
+  - TravelMoire (Travel Blog App) 
+  - Melanoid (E-commerce art store)
+  - TechSFLA (Networking App)
 
 #### 🌱 I’m currently learning:
   - React Native
