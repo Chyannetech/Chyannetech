@@ -6,9 +6,9 @@
 
 #### 🌱 I’m currently learning:
   - React Native
-  - Python
-  - Firebase
-  - Styled Components 
+  - Python and Django
+  - Next.js and Typescript
+
  
  #### 📫 How to reach me:
  - [Twitter](https://twitter.com/chyannerobbins)
