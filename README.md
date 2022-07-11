@@ -1,8 +1,8 @@
 ### Hi 👋🏻 I'm Chyanne
 #### 🔭 I’m currently working on: 
-  - TravelMoire (Travel Blog App) 
-  - Melanoid (E-commerce art store)
-  - TechSFLA (Networking App)
+  - Wellbrew 1.2 (Python / Django / Materialize app)
+  - Melanoid (React / Bootstrap)
+  
 
 #### 🌱 I’m currently learning:
   - React Native
