@@ -9,7 +9,6 @@
 
  
  #### 📫 How to reach me:
- - [Twitter](https://twitter.com/chyannerobbins)
  - [Linkedin](https://www.linkedin.com/in/chyannerobbins/)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
