@@ -5,8 +5,6 @@
   
 
 #### 🌱 I’m currently learning:
-  - React Native
-  - Python and Django
   - Next.js and Typescript
 
  
