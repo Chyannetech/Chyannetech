@@ -1,7 +1,7 @@
 ### Hi 👋🏻 I'm Chyanne
 #### 🔭 I’m currently working on: 
-  - Wellbrew 1.2 (Python / Django / Materialize app)
-  - Melanoid (React / Bootstrap)
+  - Wellbrew 1.2 (Python / Django / Materialize)
+  - TravelMoire (React (Next.js) / Typescript / Materialize)
   
 
 #### 🌱 I’m currently learning:
