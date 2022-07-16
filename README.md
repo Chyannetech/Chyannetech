@@ -1,7 +1,7 @@
 ### Hi 👋🏻 I'm Chyanne
 #### 🔭 I’m currently working on: 
   - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
-  - [Chyless] Wellness Blog and Ecommerce (React (Next.js) / Typescript / Materialize)
+  - [Chyless] Wellness Blog and Ecommerce (React (Next.js) / Typescript)
   
 
 #### 🌱 I’m currently learning:
