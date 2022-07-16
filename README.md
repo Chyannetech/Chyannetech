@@ -7,6 +7,7 @@
 #### 🌱 I’m currently learning:
   - Next.js and Typescript
 
+I plan to build a new project every two weeks. Feel free to reach out so that we can connect, share ideas, or collaborate on fun projects.  
  
  #### 📫 How to reach me:
  - [Linkedin](https://www.linkedin.com/in/chyannerobbins/)
