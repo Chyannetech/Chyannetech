@@ -1,5 +1,6 @@
 ### Hi 👋🏻 I'm Chyanne
 #### 🔭 I’m currently working on: 
+  - My portfolio :)
   - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - [TravelMoire] A traveling social media application. (React / Javascript)
  
