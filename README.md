@@ -2,11 +2,12 @@
 #### 🔭 I’m currently working on: 
   - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - [TravelMoire] A traveling social media application. (React / Javascript)
-  - [Chyless] Wellness Blog and Ecommerce (React (Next.js) / Typescript)
-  
+ 
 
 #### 🌱 I’m currently learning:
   - Next.js and Typescript
+  - SEO 
+  - Algorithms
 
 Feel free to reach out so that we can connect, share ideas, or collaborate on fun projects.  
  
