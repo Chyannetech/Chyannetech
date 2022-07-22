@@ -5,10 +5,8 @@
   - [TravelMoire] A traveling social media application. (React / Javascript)
  
 
-#### 🌱 I’m currently learning:
-  - Next.js and Typescript
-  - SEO 
-  - Algorithms
+#### 🌱 I’m currently learning: 
+  - Algorithms and Data Structures
 
 Feel free to reach out so that we can connect, share ideas, or collaborate on fun projects.  
  
