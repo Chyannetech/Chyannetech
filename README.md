@@ -1,10 +1,10 @@
 ### Hi 👋🏻 I'm Chyanne
 - 🎓 I'm recently graduated from General Assembly's Software Engineering Immersive Bootcamp
-- 📚 What do I beleive? Everyone was created for a purpose and deserves a chance to succeed. 
-- 😎 Motto: Fail Fast -- Learn Faster.
+- 📚 What do I beleive? Failer is a learning tool
+- 😎 Motto: Enjoy life -- Take chances
 - 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, Blockchain DeFi and more. 
 - 💬 Ask me about: Tech gadgets
-- ⚡ Fun fact: I'm a taco - aesthete + musicophile. [Tacos + Music and Art] 
+- ⚡ Fun fact: I'm a taco - aesthete + musicophile. [Tacos + Music + Art] 
 
 #### 🌱 I’m currently working on: 
   - My portfolio
