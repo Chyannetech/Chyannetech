@@ -1,31 +1,100 @@
 ### Hi 👋🏻 I'm Chyanne
-#### 🔭 I’m currently working on: 
-  - My portfolio :)
+- 🎓 I'm recently graduated from General Assembly's Software Engineering Immersive Bootcamp
+- 📚 What do I beleive? Everyone was created for a purpose and deserves a chance to succeed. 
+- 😎 Motto: Fail Fast -- Learn Faster.
+- 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, Blockchain DeFi and more. 
+- 💬 Ask me about: Tech gadgets
+- ⚡ Fun fact: I'm a taco - aesthete + musicophile. [Tacos + Music and Art] 
+
+#### 🌱 I’m currently working on: 
+  - My portfolio
   - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - [TravelMoire] A traveling social media application. (React / Javascript)
  
 
 #### 🌱 I’m currently learning: 
   - Algorithms and Data Structures
+  
+  
+<details open>
+  <summary>
+    <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>
+    <b> Languages </b> 
+  </summary>
+  
+  <img align="left" alt="Javascript" width="40px" 
+  src="https://img.icons8.com/color/144/000000/javascript.png"/>
+  <img align="left" alt="Python" width="40px" 
+  src="https://img.icons8.com/color/144/000000/python.png"/>
+  <img align="left" alt="HTML" width="40px"  
+  src="https://img.icons8.com/color/144/000000/html-5.png"/>
+  <img align="left" alt="CSS" width="40px" 
+  src="https://img.icons8.com/color/144/000000/css3.png"/>
 
-Feel free to reach out so that we can connect, share ideas, or collaborate on fun projects.  
- 
- #### 📫 How to reach me:
- - [Linkedin](https://www.linkedin.com/in/chyannerobbins/)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyannetech&layout=compact)](https://github.com/chyannetech/github-readme-stats)
+ <br />
+  <br />
+  <br />
+  
+</details>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<details open> 
+  <summary> 
+    <img width="15px" src="https://img.icons8.com/material-sharp/24/000000/wrench.png"/> 
+    <b> Tools </b> 
+  </summary>
+
+  <img align="left" alt="Visual Studio Code" width="40px" 
+  src="https://img.icons8.com/fluent/140/000000/visual-studio-code-2019.png"/>
+  <img align="left" alt="npm" width="40px" 
+  src="https://img.icons8.com/color/48/000000/npm.png"/>
+  <img align="left" alt="Git" width="40px" 
+  src="https://img.icons8.com/color/144/000000/git.png"/>
+  
+  <br />
+  <br />
+  <br />
+  
+</details>
+
+<details open>
+  <summary>
+    <img width="15px" src="https://img.icons8.com/wired/24/000000/idea.png"/>
+    <b> Technologies </b>
+  </summary>
+
+  <img align="left" alt="Github" width="40px" 
+  src="https://img.icons8.com/fluent/144/000000/github.png"/>
+  <img align="left" alt="Amazon Web Services" width="40px"
+  src="https://img.icons8.com/color/144/000000/amazon-web-services.png"/>
+  <img align="left" alt="MongoDB" width="40px" 
+  src="https://img.icons8.com/color/240/000000/mongodb.png"/>
+  <img align="left" alt="Express.js" width="40px" 
+  src="https://www.mementotech.in/assets/images/icons/express.png"/>
+  <img align="left" alt="React.js" width="40px" 
+  src="https://jasonpallone.com/React-icon.png"/>
+  <img align="left" alt="Node.js" width="40px"
+  src="https://www.brainfuel.io/images/node-js-new.png"/>
+  
+
+  <br />
+  <br />
+  <br />
+  
+</details>
+
+<b> Find me at </b>
+<br />
+
+<a href="https://linkedin.com/in/chyannerobbins">
+  <img align="left" alt="Chyanne Robbins - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a> 
+<a href="https://www.instagram.com/chylessworld/">
+  <img align="left" alt="Chyanne Robbins - Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+<a href="https://www.twitter.com/chyannerobbins/">
+  <img align="left" alt="Chyanne Robbins - Twitter" width="22px" src="https://img.icons8.com/color/344/twitter--v1.png"/>
+</a>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_color=grey&right_color=pink)
 
