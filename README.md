@@ -1,6 +1,6 @@
 ### Hi 👋🏻 I'm Chyanne
-- 🎓 I'm recently graduated from General Assembly's Software Engineering Immersive Bootcamp
-- 📚 What do I beleive? Failer is a learning tool
+- 🎓 I recently graduated from General Assembly's Software Engineering Immersive Bootcamp
+- 📚 What do I believe? Failer is a learning tool.
 - 😎 Motto: Enjoy life -- Take chances
 - 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, Blockchain DeFi and more. 
 - 💬 Ask me about: Tech gadgets
