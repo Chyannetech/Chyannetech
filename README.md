@@ -1,7 +1,7 @@
 ### Hi 👋🏻 I'm Chyanne
 - 🎓 I recently graduated from General Assembly's Software Engineering Immersive Bootcamp
 - 📚 What do I believe? Failer is a learning tool.
-- 😎 Motto: Enjoy life -- Take chances,
+- 😎 Motto: Enjoy life -- Take chance.
 - 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, blockchain defi and more. 
 - 💬 Ask me about: Tech gadgets
 - ⚡ Fun fact: I'm a taco - aesthete + musicophile. [ I ❤️ Tacos + Music + Art] 
