@@ -4,7 +4,7 @@
 - 😎 Motto: Enjoy life -- Take chances
 - 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, Blockchain DeFi and more. 
 - 💬 Ask me about: Tech gadgets
-- ⚡ Fun fact: I'm a taco - aesthete + musicophile. [Tacos + Music + Art] 
+- ⚡ Fun fact: I'm a taco - aesthete + musicophile. [ I ❤️ Tacos + Music + Art] 
 
 #### 🌱 I’m currently working on: 
   - My portfolio
