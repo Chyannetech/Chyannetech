@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I'm a taco - aesthete + musicophile. [ I ❤️ Tacos + Music + Art] 
 
 #### 🌱 I’m currently working on: 
-  - My portfolio
   - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - [TravelMoire] A traveling social media application. (React / Javascript)
  
