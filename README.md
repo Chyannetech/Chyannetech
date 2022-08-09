@@ -1,17 +1,12 @@
 ### Hi 👋🏻 I'm Chyanne
 - 🎓 I recently graduated from General Assembly's Software Engineering Immersive Bootcamp
-- 📚 What do I believe? Failure is a learning tool.
-- 😎 Motto: Enjoy life -- Take chances.
 - 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, blockchain defi and more. 
-
-
 
 #### 🌱 I’m currently working on: 
   - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - [TravelMoire] A traveling social media application. (React / Javascript)
 
 
-  
 <details open>
   <summary>
     <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>
