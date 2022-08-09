@@ -3,17 +3,13 @@
 - 📚 What do I believe? Failure is a learning tool.
 - 😎 Motto: Enjoy life -- Take chances.
 - 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, blockchain defi and more. 
-- 💬 Ask me about: Tech gadgets.
-- ⚡ Fun fact: I'm a taco - aesthete + musicophile. [ I ❤️ Tacos + Music + Art] 
+
+
 
 #### 🌱 I’m currently working on: 
   - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - [TravelMoire] A traveling social media application. (React / Javascript)
- 
 
-#### 🌱 I’m currently learning: 
-  - Algorithms and Data Structures
-  <br />
 
   
 <details open>
