@@ -79,9 +79,7 @@
 <a href="https://linkedin.com/in/chyannerobbins">
   <img align="left" alt="Chyanne Robbins - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a> 
-<a href="https://www.instagram.com/chylessworld/">
-  <img align="left" alt="Chyanne Robbins - Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a>
+
 <a href="https://www.twitter.com/chyannerobbins/">
   <img align="left" alt="Chyanne Robbins - Twitter" width="22px" src="https://img.icons8.com/color/344/twitter--v1.png"/>
 </a>
