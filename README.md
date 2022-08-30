@@ -55,8 +55,6 @@
 
   <img align="left" alt="Github" width="40px" 
   src="https://img.icons8.com/fluent/144/000000/github.png"/>
-  <img align="left" alt="Amazon Web Services" width="40px"
-  src="https://img.icons8.com/color/144/000000/amazon-web-services.png"/>
   <img align="left" alt="MongoDB" width="40px" 
   src="https://img.icons8.com/color/240/000000/mongodb.png"/>
   <img align="left" alt="Express.js" width="40px" 
