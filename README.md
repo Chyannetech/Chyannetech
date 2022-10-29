@@ -3,7 +3,8 @@
 - 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, blockchain defi and more. 
 
 #### 🌱 I’m currently working on: 
-  - [Wellbrew] Farmers Market Directory (Python / Django / Materialize)
+  - [Updating Wellbrew] Farmers Market Directory (Python / Django / Materialize)
+  - Learning Ruby on Rails
   - Developing Custom Wordpress Themes and Plugins
 
 
