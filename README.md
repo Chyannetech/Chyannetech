@@ -1,4 +1,7 @@
 ### Hi 👋🏻 I'm Chyanne. Welcome to my github! 
+![dance](https://user-images.githubusercontent.com/103911002/198965823-123b052f-947a-4eb8-b705-b7ea671e877b.gif)
+
+
 
 #### 🌱 I’m currently working on: 
   - [Updating Wellbrew] Farmers Market Directory (Python / Django / Materialize)
