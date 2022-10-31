@@ -8,7 +8,7 @@ A Software Engineer from Fort Lauderdale, Florida.
   - Ecommerce Store (Ruby on Rails / MySQL)
   - Developing Custom Wordpress Themes and Plugins (PHP)
 
-💭 Fun facts: I love dancing, watching action movies, and riding around town in my jeep.
+💭 Fun facts: I love dancing, writing, watching action movies, and riding around town in my jeep.
 
 ![dance](https://user-images.githubusercontent.com/103911002/198965823-123b052f-947a-4eb8-b705-b7ea671e877b.gif)
 
