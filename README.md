@@ -77,9 +77,10 @@ A Software Engineer from Fort Lauderdale, Florida.
   <br />
   <br />
   
-</details>                                                                                                                                                                                                                        
+</details>
+                                                                                                              
+                                                                                                              
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_color=grey&right_color=pink)
-
 
 
 
