@@ -39,11 +39,12 @@
 
   <img align="left" alt="Visual Studio Code" width="40px" 
   src="https://img.icons8.com/fluent/140/000000/visual-studio-code-2019.png"/>
-  <img align="left" alt="npm" width="40px" 
+  <img align="left" alt="NPM" width="40px" 
   src="https://img.icons8.com/color/48/000000/npm.png"/>
   <img align="left" alt="Figma" width="40px" 
   src="https://user-images.githubusercontent.com/103911002/198958276-f781392f-c5ff-4d2d-aa2a-ef8d2b1cec4b.png"/>
-  <img align="left" alt="Figma" width="40px"                                                                                       src="https://user-images.githubusercontent.com/103911002/198959063-93a88f2e-f7fa-4de3-8fc5-ee20165c3c7d.png"/>
+  <img align="left" alt="Docker" width="40px"                                                                                     src="https://user-images.githubusercontent.com/103911002/198960019-6db7eb43-8aca-4a5d-b757-1b47840f8692.jpeg"/>
+
   <br />
   <br />
   <br />
@@ -56,8 +57,6 @@
     <b> Technologies </b>
   </summary>
 
-  <img align="left" alt="Github" width="40px" 
-  src="https://img.icons8.com/fluent/144/000000/github.png"/>
   <img align="left" alt="MongoDB" width="40px" 
   src="https://img.icons8.com/color/240/000000/mongodb.png"/>
   <img align="left" alt="Express.js" width="40px" 
