@@ -1,12 +1,9 @@
-### Hi 👋🏻 I'm Chyanne
-- 🎓 I recently graduated from General Assembly's Software Engineering Immersive Bootcamp
-- 👯 I’m looking to collaborate on: Anything involving cloud computing, AI, AR, VR, blockchain defi and more. 
+### Hi 👋🏻 I'm Chyanne. Welcome to my github! 
 
 #### 🌱 I’m currently working on: 
   - [Updating Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - Learning Ruby on Rails
   - Developing Custom Wordpress Themes and Plugins
-
 
 <details open>
   <summary>
@@ -74,9 +71,6 @@
   <br />
   
 </details>
-
-<b> Find me at </b>
-<br />
 
 <a href="https://linkedin.com/in/chyannerobbins">
   <img align="left" alt="Chyanne Robbins - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
