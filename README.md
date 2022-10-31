@@ -2,8 +2,8 @@
 
 #### 🌱 I’m currently working on: 
   - [Updating Wellbrew] Farmers Market Directory (Python / Django / Materialize)
-  - Learning Ruby on Rails
-  - Developing Custom Wordpress Themes and Plugins
+  - Ecommerce Store (Ruby on Rails / MySQL)
+  - Developing Custom Wordpress Themes and Plugins (PHP)
 
 <details open>
   <summary>
