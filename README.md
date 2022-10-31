@@ -13,15 +13,17 @@
     <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>
     <b> Languages </b> 
   </summary>
-  
+ 
   <img align="left" alt="Javascript" width="40px" 
   src="https://img.icons8.com/color/144/000000/javascript.png"/>
   <img align="left" alt="Python" width="40px" 
   src="https://img.icons8.com/color/144/000000/python.png"/>
-  <img align="left" alt="HTML" width="40px"  
-  src="https://img.icons8.com/color/144/000000/html-5.png"/>
-  <img align="left" alt="CSS" width="40px" 
-  src="https://img.icons8.com/color/144/000000/css3.png"/>
+  <img align="left" alt="Ruby on Rails" width="40px" 
+  src="https://user-images.githubusercontent.com/103911002/198957131-a429cc79-42f7-4322-b01c-72bb120f3fe5.png"/>
+  <img align="left" alt="PHP" width="40px"  
+  src="https://user-images.githubusercontent.com/103911002/198957490-31994b8e-08e8-4633-8a5c-d9ce8e5c1728.png"/>  
+  
+                                                                                                          
 
  <br />
   <br />
@@ -39,9 +41,9 @@
   src="https://img.icons8.com/fluent/140/000000/visual-studio-code-2019.png"/>
   <img align="left" alt="npm" width="40px" 
   src="https://img.icons8.com/color/48/000000/npm.png"/>
-  <img align="left" alt="Git" width="40px" 
-  src="https://img.icons8.com/color/144/000000/git.png"/>
-  
+  <img align="left" alt="Figma" width="40px" 
+  src="https://user-images.githubusercontent.com/103911002/198958276-f781392f-c5ff-4d2d-aa2a-ef8d2b1cec4b.png"/>
+  <img align="left" alt="Figma" width="40px"                                                                                       src="https://user-images.githubusercontent.com/103911002/198959063-93a88f2e-f7fa-4de3-8fc5-ee20165c3c7d.png"/>
   <br />
   <br />
   <br />
