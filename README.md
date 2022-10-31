@@ -65,7 +65,9 @@
   src="https://jasonpallone.com/React-icon.png"/>
   <img align="left" alt="Node.js" width="40px"
   src="https://www.brainfuel.io/images/node-js-new.png"/>
-  
+  <img align="left" alt="MySQL" width="40px"
+  src="https://user-images.githubusercontent.com/103911002/198961683-cb3e6f45-eb8c-4b80-af41-37b94eb515d6.png"/>
+
 
   <br />
   <br />
