@@ -1,9 +1,14 @@
-### Hi 👋🏻 I'm Chyanne. Welcome to my github! 
+### Hi 👋🏻 I'm Chyanne. 
+
+A Software Engineer from Fort Lauderdale, Florida.
+- 📫 How to reach me: <a href="mailto:chyannetech@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chyannerobbins">LinkedIn</a> | <a href="https://drive.google.com/file/d/1lafQ6gW_IC6RIBWYVgy_xjXSwskd78G9/view?usp=share_link">Resume</a>
 
 #### 🌱 I’m currently working on: 
   - [Updating Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - Ecommerce Store (Ruby on Rails / MySQL)
   - Developing Custom Wordpress Themes and Plugins (PHP)
+
+💭 Fun facts: I love dancing, watching action movies, and taking short road trips around town in my jeep.
 
 <details open>
   <summary>
@@ -74,10 +79,6 @@
                                                                                                              
 ![dance](https://user-images.githubusercontent.com/103911002/198965823-123b052f-947a-4eb8-b705-b7ea671e877b.gif)
                                                                                                               
-<a href="https://linkedin.com/in/chyannerobbins">
-  <img align="left" alt="Chyanne Robbins - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a> 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_color=grey&right_color=pink)
 
 
