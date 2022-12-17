@@ -4,10 +4,10 @@ A Software Engineer from Fort Lauderdale, Florida.
 - 📫 How to reach me: <a href="mailto:chyannetech@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chyannerobbins">LinkedIn</a> | <a href="https://drive.google.com/file/d/1lafQ6gW_IC6RIBWYVgy_xjXSwskd78G9/view?usp=share_link">Resume</a>
 
 #### 🌱 I’m currently working on: 
+  - Chyless Society | Web 3 Community 
   - [Updating Wellbrew] Farmers Market Directory (Python / Django / Materialize)
   - Ecommerce Store (Ruby on Rails / MySQL)
-  - Developing Custom Wordpress Themes and Plugins (PHP)
-
+  
 💭 Fun facts: I love dancing, writing, watching action movies, and riding around town in my jeep.
 
 ![dance](https://user-images.githubusercontent.com/103911002/198965823-123b052f-947a-4eb8-b705-b7ea671e877b.gif)
