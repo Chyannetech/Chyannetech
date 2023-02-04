@@ -3,9 +3,9 @@
 A Software Engineer from Fort Lauderdale, Florida.
 - 📫 How to reach me: <a href="mailto:chyannetech@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chyannerobbins">LinkedIn</a> | <a href="https://drive.google.com/file/d/1lafQ6gW_IC6RIBWYVgy_xjXSwskd78G9/view?usp=share_link">Resume</a>
 
-#### 🌱 I’m currently working on: 
-  - Chyless Society | Web3 Community
-  - Learning Solidity 
+#### 🌱 I’m currently building a project using: 
+  - React, NextJS, and ThreeJS
+
   
   
 💭 Fun facts: I love dancing, writing, watching action movies, and riding around town in my jeep.
