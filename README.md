@@ -70,7 +70,7 @@ A frontend web developer and software engineer from Fort Lauderdale, Florida.
   
 </details>
                                                                            
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_text=MyPageVisitors)
+
                                                                                                               
 
 
