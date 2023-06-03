@@ -1,14 +1,12 @@
 ### Hi 👋🏻 I'm Chyanne. 
 
-A creative web developer from Fort Lauderdale, Florida.
+A frontend web developer and software engineer from Fort Lauderdale, Florida.
 - 📫 How to reach me: <a href="mailto:chyannetech@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chyannerobbins">LinkedIn</a> | <a href="https://drive.google.com/file/d/1lafQ6gW_IC6RIBWYVgy_xjXSwskd78G9/view?usp=share_link">Resume</a>
 
-#### 🌱 I’m currently building a project using: 
-  - React, NextJS, and ThreeJS
-
-  
-  
-💭 Fun facts: I love dancing, writing, watching action movies, and riding around town in my jeep.
+#### I’m currently learning: 
+  - Full Stack Web Development
+    
+💭 Fun facts: I love dancing, roller skating, watching action movies, and riding around town in my jeep.
 
 ![dance](https://user-images.githubusercontent.com/103911002/198965823-123b052f-947a-4eb8-b705-b7ea671e877b.gif)
 
@@ -71,10 +69,9 @@ A creative web developer from Fort Lauderdale, Florida.
   <br />
   
 </details>
+                                                                           
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_text=MyPageVisitors)
                                                                                                               
-                                                                                                              
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chyanntech.chyanntetech&left_color=grey&right_color=pink)
-
 
 
  
