@@ -58,8 +58,6 @@ A frontend web developer and software engineer from Fort Lauderdale, Florida.
   src="https://img.icons8.com/color/240/000000/mongodb.png"/>
   <img align="left" alt="Express.js" width="40px" 
   src="https://www.mementotech.in/assets/images/icons/express.png"/>
-  <img align="left" alt="React.js" width="40px" 
-  src="https://jasonpallone.com/React-icon.png"/>
   <img align="left" alt="MySQL" width="40px"
   src="https://user-images.githubusercontent.com/103911002/198961683-cb3e6f45-eb8c-4b80-af41-37b94eb515d6.png"/>
 
