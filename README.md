@@ -1,72 +1,27 @@
-### Hi 👋🏻 I'm Chyanne. 
+## Hi there 👋 I'm Chyanne
 
-A frontend web developer and software engineer from Fort Lauderdale, Florida.
-- 📫 How to reach me: <a href="mailto:chyannetech@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/chyannerobbins">LinkedIn</a> | <a href="https://drive.google.com/file/d/1lafQ6gW_IC6RIBWYVgy_xjXSwskd78G9/view?usp=share_link">Resume</a>
+![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech)
 
-#### I’m currently learning: 
-  - Full Stack Web Development
-    
-💭 Fun facts: I love dancing, roller skating, watching action movies, and riding around town in my jeep.
+## 👩‍💻 I'm a Frontend Web Developer
+<ul>
+<li> 🔭 I’m currently building a React.js App</li>
+<li>🌱 I’m currently learning Next.JS.</li>
+<li>👯 I’m looking to collaborate with anyone on any project.</li>
+<li>💬 Ask me about anything</li>
+<li>💭 I love traveling, roller skating, going to the beach, and lisetning to music.</li>
+</ul>
 
-![dance](https://user-images.githubusercontent.com/103911002/198965823-123b052f-947a-4eb8-b705-b7ea671e877b.gif)
+## ✉️ Find me on:
+<br>
+<p align="center">
+ <a href="https://github.com/Chyannetech" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/chyannerobbins" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:chyannetech@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
-<details open>
-  <summary>
-    <img width=15px" src="https://img.icons8.com/ios-glyphs/24/000000/language.png"/>
-    <b> Languages </b> 
-  </summary>
- 
-  <img align="left" alt="Javascript" width="40px" 
-  src="https://img.icons8.com/color/144/000000/javascript.png"/>
-  <img align="left" alt="Python" width="40px" 
-  src="https://img.icons8.com/color/144/000000/python.png"/>
-  <img align="left" alt="Ruby on Rails" width="40px" 
-  src="https://user-images.githubusercontent.com/103911002/198957131-a429cc79-42f7-4322-b01c-72bb120f3fe5.png"/>                                                                                                          
+## 🧰 Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chyannetech&theme=tokyonight)
 
- <br />
-  <br />
-  <br />
-  
-</details>
-
-<details open> 
-  <summary> 
-    <img width="15px" src="https://img.icons8.com/material-sharp/24/000000/wrench.png"/> 
-    <b> Tools </b> 
-  </summary>
-
-  <img align="left" alt="Visual Studio Code" width="40px" 
-  src="https://img.icons8.com/fluent/140/000000/visual-studio-code-2019.png"/>
-  <img align="left" alt="NPM" width="40px" 
-  src="https://img.icons8.com/color/48/000000/npm.png"/>
-  <img align="left" alt="Figma" width="40px" 
-  src="https://user-images.githubusercontent.com/103911002/198958276-f781392f-c5ff-4d2d-aa2a-ef8d2b1cec4b.png"/>
-
-  <br />
-  <br />
-  <br />
-  
-</details>
-
-<details open>
-  <summary>
-    <img width="15px" src="https://img.icons8.com/wired/24/000000/idea.png"/>
-    <b> Technologies </b>
-  </summary>
-
-  <img align="left" alt="MongoDB" width="40px" 
-  src="https://img.icons8.com/color/240/000000/mongodb.png"/>
-  <img align="left" alt="Express.js" width="40px" 
-  src="https://www.mementotech.in/assets/images/icons/express.png"/>
-  <img align="left" alt="MySQL" width="40px"
-  src="https://user-images.githubusercontent.com/103911002/198961683-cb3e6f45-eb8c-4b80-af41-37b94eb515d6.png"/>
-
-
-  <br />
-  <br />
-  <br />
-  
-</details>
                                                                            
 
                                                                                                               
