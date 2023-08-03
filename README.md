@@ -4,7 +4,8 @@
 
 <h3 align="center">I'm a Frontend Web Developer 👩‍💻, Videographer 📹, and Designer 🎨</h3>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech)
+![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
+
 <ul>
 <li> 🔭 I’m currently building a React.JS App</li>
 <li>🌱 I’m currently learning Next.JS</li>
@@ -20,7 +21,10 @@
  <a href="mailto:chyannetech@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br>
-💬 If you have any question/feedback, please do not hesitate to reach out to me
+<a href="https://drive.google.com/file/d/1lafQ6gW_IC6RIBWYVgy_xjXSwskd78G9/view?usp=drive_link">View Resume</a>
+<br>
+💬 If you have any question/feedback, please do not hesitate to reach out to me.
+
 
 ## 🧰 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
