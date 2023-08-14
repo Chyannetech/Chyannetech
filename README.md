@@ -62,6 +62,4 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-[![Chyanne's github stats](https://github-readme-stats.vercel.app/api?username=chyannetech)](https://github.com/chyannetech)
-
  
