@@ -7,10 +7,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
 
 <ul>
-<li> 🔭 I’m currently building a React.JS App</li>
-<li>🌱 I’m currently learning Next.JS</li>
-<li>👯 I’m looking to collaborate with anyone on any project.</li>
-<li>✨ I love traveling, roller skating, going to the beach, and Mediterranean food.</li>
+<li>🔭 I’m currently building a React.JS App</li>
+<li>🌱 I’m currently learning Next.JS and Typescript</li>
+<li>👯 I’m looking to collaborate with backend engineers on any project.</li>
+<li>✨ I enjoy traveling, roller skating, beach days, afrobeats, and Mediterranean food.</li>
 </ul>
 
 ## ✉️ Find me on:
