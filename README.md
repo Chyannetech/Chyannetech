@@ -2,13 +2,12 @@
 
 <h2 align="center">Hi there, I'm Chyanne 👋</h2>
 
-<h3 align="center">I'm a Frontend Web Developer 👩‍💻, Videographer 📹, and Designer 🎨</h3>
+<h3 align="center">I'm a Frontend Web Developer 👩‍💻</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
 
 <ul>
-<li>🔭 I’m currently building a React.JS App</li>
-<li>🌱 I’m currently learning Next.JS and Typescript</li>
+<li>🌱 I’m currently learning Next.JS</li>
 <li>👯 I’m looking to collaborate with backend engineers on any project.</li>
 <li>✨ I enjoy traveling, roller skating, beach days, afrobeats, and Mediterranean food.</li>
 </ul>
