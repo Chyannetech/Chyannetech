@@ -9,7 +9,7 @@
 <ul>
 <li>🌱 I’m currently learning Next.JS</li>
 <li>👯 I’m looking to collaborate with backend engineers on any project.</li>
-<li>✨ I enjoy traveling, roller skating, beach days, trap soul and afrobeats, and Mexican food.</li>
+<li>✨ I enjoy traveling, roller skating, beach days, trap soul + afrobeats, and Mexican food.</li>
 </ul>
 
 ## ✉️ Find me on:
