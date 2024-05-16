@@ -21,7 +21,9 @@
 <br>
 <br>
 💬 If you have any question/feedback, please do not hesitate to reach out to me.
-
+<br>
+<br>
+View my Resume <a href="https://drive.google.com/file/d/1J_nu_d8vUxBSGlaS5RENh6TGqAh0Becu/view?usp=drive_link" target="_blank" rel="noopener noreferrer" alt="Resume" height="40" style="vertical-align:top; margin:4px">Here.</a> 
 
 ## 🧰 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
