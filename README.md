@@ -5,7 +5,7 @@ I’m the founder of **Chyless World** — a creative and wellness-driven platfo
 
 This GitHub exists as a quiet technical archive and experimentation space that supports my broader work.
 
-🌿 About Chyless World
+🌿 About Chyless World <br>
 Chyless World is centered on:
 - Human-centered clarity and self-regulation  
 - Mindfulness, reflection, and intentional systems  
@@ -14,7 +14,7 @@ Chyless World is centered on:
 
 The work spans wellness, research, design, and occasional technical exploration.
 
-🧠 Why GitHub Exists Here
+🧠 Why GitHub Exists Here <br>
 This repository space is used for:
 - Light experimentation with code or systems when relevant  
 - Prototyping internal tools or ideas  
@@ -29,7 +29,7 @@ It is not an active development portfolio and is not tied to client or consultin
 - System thinking & structure
 - Documentation and clarity-driven workflows
 
-✨ Current Focus
+✨ Current Focus <br>
 My primary focus is building **Chyless World** through:
 - Content & storytelling
 - Wellness and mindfulness education
@@ -40,7 +40,7 @@ Technical work appears here only when it supports that mission.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
 
-🔗 Elsewhere
+🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/chyannerobbins/
 - Chyless World (in progress): https://chylessworld.com
 
