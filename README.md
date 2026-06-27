@@ -1,40 +1,39 @@
 
 
 ## 👋 Hi, I'm Chyanne
-I’m the founder of **Chyless World** — a creative and wellness-driven platform exploring human clarity, healing, and intentional living through modern tools, research, and storytelling.
+Founder of Chyless World — an interdisciplinary studio exploring the intersection of design, technology, and human behavior.
+This GitHub serves as a quiet archive for technical experiments, prototypes, and systems that support my broader creative work.
 
-This GitHub exists as a quiet technical archive and experimentation space that supports my broader work.
+🌿 **About Chyless World**
+Chyless World explores how thoughtful design, emerging technology, and everyday experiences shape the way people think, decide, and live.
+- Human-centered design
+- Behavioral design
+- Creative technology
+- Reflective experiences
+- Visual storytelling
+- Research and experimentation  
 
-🌿 **About Chyless World** - **Chyless World** is centered on:
-- Human-centered clarity and self-regulation  
-- Mindfulness, reflection, and intentional systems  
-- Bridging intuition, structure, and modern technology  
-- Creating tools, content, and experiences that help people reconnect with themselves  
+Projects range from digital tools and creative systems to real-world experiences that encourage presence, curiosity, and intentional living.
 
-The work spans wellness, research, design, and occasional technical exploration.
-
-🧠 **Why GitHub Exists Here** - This repository space is used for:
-- Light experimentation with code or systems when relevant  
-- Prototyping internal tools or ideas  
-- Archiving technical thinking that supports creative or operational work  
-- Learning, revisiting, and documenting concepts over time  
-
-It is not an active development portfolio and is not tied to client or consulting services.
+🧠 **Why GitHub Exists Here** 
+While Chyless World isn't a software company, technology plays an important role in many of the ideas I explore.
+This space is used to:
+- Prototype internal tools and creative concepts
+- Experiment with front-end development and automation
+- Document technical learning and research
+- Build systems that support creative workflows
 
 🛠 **Areas of Exploration** (Occasional)
-- Front-end fundamentals (HTML, CSS, JavaScript)
-- Simple automations or internal utilities
-- System thinking & structure
-- Documentation and clarity-driven workflows
+- HTML, CSS & JavaScript
+- Creative coding
+- AI-assisted workflows
+- Behavioral design
+- System design
+- Human-computer interaction
+- Documentation and knowledge systems
 
-✨ **Current Focus** -
-My primary focus is building **Chyless World** through:
-- Content & storytelling
-- Wellness and mindfulness education
-- Research-informed reflection practices
-- Creative systems that support clarity and healing
-
-Technical work appears here only when it supports that mission.
+✨ **Current Focus** 
+- Current work is centered on building Chyless World through thoughtful experiences, research, storytelling, and technology that help people navigate modern life with greater clarity.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
 
