@@ -4,7 +4,7 @@
 Founder of Chyless World — an interdisciplinary studio exploring the intersection of design, technology, and human behavior.
 This GitHub serves as a quiet archive for technical experiments, prototypes, and systems that support my broader creative work.
 
-🌿 **About Chyless World**
+🌿 **About Chyless World**<br>
 Chyless World explores how thoughtful design, emerging technology, and everyday experiences shape the way people think, decide, and live.
 - Human-centered design
 - Behavioral design
@@ -15,7 +15,7 @@ Chyless World explores how thoughtful design, emerging technology, and everyday 
 
 Projects range from digital tools and creative systems to real-world experiences that encourage presence, curiosity, and intentional living.
 
-🧠 **Why GitHub Exists Here** 
+🧠 **Why GitHub Exists Here** <br>
 While Chyless World isn't a software company, technology plays an important role in many of the ideas I explore.
 This space is used to:
 - Prototype internal tools and creative concepts
@@ -32,8 +32,8 @@ This space is used to:
 - Human-computer interaction
 - Documentation and knowledge systems
 
-✨ **Current Focus** 
-- Current work is centered on building Chyless World through thoughtful experiences, research, storytelling, and technology that help people navigate modern life with greater clarity.
+✨ **Current Focus** <br>
+Current work is centered on building Chyless World through thoughtful experiences, research, storytelling, and technology that help people navigate modern life with greater clarity.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
 
