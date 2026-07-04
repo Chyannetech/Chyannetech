@@ -1,40 +1,41 @@
+# Chyanne Robbins
 
+Researcher, designer, and builder exploring how people think, decide, and live.
 
-## 👋 Hi, I'm Chyanne
-Founder of Chyless World — an interdisciplinary studio exploring the intersection of design, technology, and human behavior.
-This GitHub serves as a quiet archive for technical experiments, prototypes, and systems that support my broader creative work.
+This GitHub is a quiet archive of the technical systems, prototypes, and experiments that support my research, publications, and creative work.
 
-🌿 **About Chyless World** <br>
-Chyless World explores how thoughtful design, emerging technology, and everyday experiences shape the way people think, decide, and live.
-- Human-centered design
-- Behavioral design
-- Creative technology
-- Reflective experiences
-- Visual storytelling
-- Research and experimentation  
+---
 
-Projects range from digital tools and creative systems to real-world experiences that encourage presence, curiosity, and intentional living.
+**About**
 
-🧠 **Why GitHub Exists Here** <br>
-While Chyless World isn't a software company, technology plays an important role in many of the ideas I explore.
-This space is used to:
-- Prototype internal tools and creative concepts
-- Experiment with front-end development and automation
-- Document technical learning and research
-- Build systems that support creative workflows
+My work explores the intersection of behavioral science, design, technology, and public health.
 
-🛠 **Areas of Exploration** (Occasional)
-- HTML, CSS & JavaScript
-- Creative coding
+I'm interested in how the environments we create—digital and physical—influence attention, decision-making, and everyday life. Many of the projects here begin as questions before becoming software, research, or real-world experiences.
+
+---
+
+**Current Work**
+
+- Building the Chyanne Robbins research publication
+- Developing Chyless World and Chyless World Labs
+- Publishing research and Field Notes
+- Exploring behavioral design, AI, and human-centered technology
+- Designing experiences that bridge research and everyday life
+
+---
+
+**What You'll Find Here**
+
+- Websites and digital publications
+- Research tools and internal systems
 - AI-assisted workflows
-- Behavioral design
-- System design
-- Human-computer interaction
+- Creative technology prototypes
+- Design systems and front-end development
 - Documentation and knowledge systems
 
-✨ **Current Focus** <br>
-Current work is centered on building Chyless World through thoughtful experiences, research, storytelling, and technology that help people navigate modern life with greater clarity.
+---
 
+*"Exploring how people think, decide, and live."*
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
 
 🔗 Connect
