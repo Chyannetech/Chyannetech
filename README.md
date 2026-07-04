@@ -1,6 +1,7 @@
 # Chyanne Robbins
 
-Researcher, designer, and builder exploring how people think, decide, and live.
+
+Researcher. Designer. Builder.
 
 This GitHub is a quiet archive of the technical systems, prototypes, and experiments that support my research, publications, and creative work.
 
@@ -16,7 +17,6 @@ I'm interested in how the environments we create—digital and physical—influe
 
 **Current Work**
 
-- Building the Chyanne Robbins research publication
 - Developing Chyless World and Chyless World Labs
 - Publishing research and Field Notes
 - Exploring behavioral design, AI, and human-centered technology
@@ -35,7 +35,7 @@ I'm interested in how the environments we create—digital and physical—influe
 
 ---
 
-*"Exploring how people think, decide, and live."*
+*"Exploring how people think, decide, and live."* <br><br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
 
 🔗 Connect
