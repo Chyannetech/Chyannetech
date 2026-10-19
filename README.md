@@ -1,46 +1,49 @@
 # Chyanne Robbins
 
+**Web Development · Creative Technology · Digital Systems**
 
-Researcher. Designer. Builder.
+I build websites, prototypes, and practical digital solutions, using AI-assisted development to explore ideas, connect technologies, and solve problems.
 
-This GitHub is a quiet archive of the technical systems, prototypes, and experiments that support my research, publications, and creative work.
-
----
-
-**About**
-
-My work explores the intersection of behavioral science, design, technology, and public health.
-
-I'm interested in how the environments we create—digital and physical—influence attention, decision-making, and everyday life. Many of the projects here begin as questions before becoming software, research, or real-world experiences.
+My background in software engineering, communication, public health, and human-centered design informs how I approach technology—from understanding a problem to building and testing a working solution.
 
 ---
 
-**Current Work**
+### Current Focus
 
-- Developing Chyless World and Chyless World Labs
-- Publishing research and Field Notes
-- Exploring behavioral design, AI, and human-centered technology
-- Designing experiences that bridge research and everyday life
+- **Web Development & CMS:** Website implementation, maintenance, responsive design, and content management.
+- **Website Integrations & Automation:** Connecting websites with CRMs, forms, scheduling tools, and business workflows.
+- **AI & Creative Technology:** AI-assisted development, functional prototypes, and experiments with emerging technologies.
+- **Human-Centered Research:** Exploring how design, technology, and environments influence behavior and everyday experiences.
 
 ---
 
-**What You'll Find Here**
+### What You'll Find Here
 
 - Websites and digital publications
-- Research tools and internal systems
-- AI-assisted workflows
-- Creative technology prototypes
-- Design systems and front-end development
-- Documentation and knowledge systems
+- Web implementation and integration projects
+- Automation workflows and AI-assisted builds
+- Creative technology experiments
+- Research prototypes and technical documentation
 
 ---
 
-*"Exploring how people think, decide, and live."* <br><br>
-![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech) 
+### Currently Building
 
-🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/chyannerobbins/
-- Chyless World (in progress): https://chylessworld.com
+**The Commons** — A fictional creative members' club website developed as a technical portfolio project.
+
+Built using Eleventy, Nunjucks, HTML, CSS, JavaScript, and Claude Code. The project explores AI-assisted web development, reusable site architecture, responsive implementation, and, in upcoming phases, CRM integrations and workflow automation.
+
+---
+
+*Exploring how technology can create more useful, thoughtful, and connected experiences.*
+
+### Connect
+
+- **Portfolio & Research:** https://chyannerobbins.com
+- **LinkedIn:** https://www.linkedin.com/in/chyannerobbins/
+- **Chyless World Studio:** https://chylessworld.com
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Chyannetech.Chyannetech)
 
 <br>
 
