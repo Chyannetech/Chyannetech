@@ -29,9 +29,11 @@ My background in software engineering, communication, public health, and human-c
 
 ### Currently Building
 
-**The Commons** — A fictional creative members' club website developed as a technical portfolio project.
+I'm exploring custom web development, AI-assisted implementation, and the tools that connect websites to business operations.
 
-Built using Eleventy, Nunjucks, HTML, CSS, JavaScript, and Claude Code. The project explores AI-assisted web development, reusable site architecture, responsive implementation, and, in upcoming phases, CRM integrations and workflow automation.
+**The Commons** — A completed website and CRM integration demonstrating secure form submissions, API workflows, and technical troubleshooting.
+
+**Moonroot** — A botanical tea storefront exploring custom web development, client-editable content management, and business integrations. Currently in development.
 
 ---
 
